@@ -1,3 +1,4 @@
 issue1
 commit records index states
 pull gets contents of remote repository
+add places at index
