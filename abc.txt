@@ -6,10 +6,6 @@ aaaa
 abcabc
 pppp
 abcabc
-pbcabc
-pppp
-abcabc
-pbcabc
 pppp
 abcabc
 pbcabc
